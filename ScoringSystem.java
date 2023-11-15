@@ -7,7 +7,7 @@ public class ScoringSystem {
     private static final Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-
+//adding comment from the github
         Scanner scan = new Scanner(System.in);
         // Setting up of the rules to the User / Client to provide appropriate inputs for the code
         System.out.println("\n***** College Tournament Scoring System ******");
