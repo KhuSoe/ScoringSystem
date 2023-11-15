@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ScoringSystem {
     private static final Scanner scan = new Scanner(System.in);
-
+///updated////
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
